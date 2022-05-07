@@ -6,4 +6,5 @@ This is a command-line, back end application for an e-commerce site. It includes
 
 ## Link to walk-through
 
-e-commerce-backend/walkthrough/Module 13_Ecommerce-Backend_Walkthrough.webm
+https://github.com/cmuscari/e-commerce-backend.git/walkthrough/Module 13_Ecommerce-Backend_Walkthrough.webm
+
